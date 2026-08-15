@@ -2,9 +2,6 @@
 
 I'm a computer science enthusiast based in Italy. I graduated as an IT technician and earned a degree in **Information Technology for Production of Software** (ITPS) from the **University of Bari (UniBA)**.
 
-I enjoy building clean, efficient applications and exploring new technologies across the full stack.
-
-
 ### 🛠️ Skills
 
 **Languages**
