@@ -1,14 +1,11 @@
-# [Your Name]
+**`padelle`**
 
-**`[Your Tagline / Role]`**
-
-I'm a computer science enthusiast based in Italy. I graduated as an IT technician (*Perito Informatico*) and earned a degree in **Information Technology for Production Systems** (ITPS) from the **University of Bari (UniBA)**.
+I'm a computer science enthusiast based in Italy. I graduated as an IT technician and earned a degree in **Information Technology for Production of Software** (ITPS) from the **University of Bari (UniBA)**.
 
 I enjoy building clean, efficient applications and exploring new technologies across the full stack.
 
----
 
-## 🛠️ Skills
+##à 🛠️ Skills
 
 **Languages**
 
@@ -25,20 +22,3 @@ I enjoy building clean, efficient applications and exploring new technologies ac
 ![HTML](https://img.shields.io/badge/HTML-555555?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-555555?style=flat&logo=css3&logoColor=white)
 
----
-
-## 📌 Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| [Project Name] | Short description of the project | [Link](https://github.com/username) |
-| [Project Name] | Short description of the project | [Link](https://github.com/username) |
-| [Project Name] | Short description of the project | [Link](https://github.com/username) |
-
----
-
-## 📫 Contact
-
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
