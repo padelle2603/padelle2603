@@ -5,7 +5,7 @@ I'm a computer science enthusiast based in Italy. I graduated as an IT technicia
 I enjoy building clean, efficient applications and exploring new technologies across the full stack.
 
 
-##à 🛠️ Skills
+### 🛠️ Skills
 
 **Languages**
 
