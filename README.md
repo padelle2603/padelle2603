@@ -1,29 +1,10 @@
-<div align="center">
+# [Your Name]
 
-```
-  ____       _    _      _       _  _____
- |  _ \   __| |  | |    | |     | |/ ____|
- | |_) | / _` |  | |    | |     | | |     
- |  _ < | (_| |  | |____| |_    | | |     
- |_| \_\ \__,_|  |______|__|    |_|\_____|
-```
+**`[Your Tagline / Role]`**
 
-<!-- 👇 Sostituisci con il tuo nome -->
-# **Paolo**
+I'm a computer science enthusiast based in Italy. I graduated as an IT technician (*Perito Informatico*) and earned a degree in **Information Technology for Production Systems** (ITPS) from the **University of Bari (UniBA)**.
 
-<!-- 👇 Sostituisci con la tua tagline / ruolo -->
-### `Computer Science Graduate & Full-Stack Developer`
-
-</div>
-
----
-
-<!-- 👇 Scrivi qui la tua bio breve in inglese -->
-Hi! I'm **Paolo**, a computer science graduate from **Bari, Italy**.
-
-I graduated as an *IT Technician* (Perito Informatico) and earned a degree in **Information Technology for Production Systems** (ITPS) from the **University of Bari (UniBA)**.
-
-I love building clean, modern applications and exploring new technologies across the full stack.
+I enjoy building clean, efficient applications and exploring new technologies across the full stack.
 
 ---
 
@@ -31,7 +12,6 @@ I love building clean, modern applications and exploring new technologies across
 
 **Languages**
 
-<!-- 👇 Modifica o aggiungi i badge con i tuoi linguaggi -->
 ![Java](https://img.shields.io/badge/Java-555555?style=flat&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white)
@@ -49,24 +29,16 @@ I love building clean, modern applications and exploring new technologies across
 
 ## 📌 Projects
 
-<!-- 👇 Compila le righe con i tuoi progetti -->
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **Project A** | What it does and why it's cool | Java, SQL | [🔗](https://github.com/username) |
-| **Project B** | What it does and why it's cool | Next.js, React | [🔗](https://github.com/username) |
-| **Project C** | What it does and why it's cool | Python | [🔗](https://github.com/username) |
+| Project | Description | Link |
+|---------|-------------|------|
+| [Project Name] | Short description of the project | [Link](https://github.com/username) |
+| [Project Name] | Short description of the project | [Link](https://github.com/username) |
+| [Project Name] | Short description of the project | [Link](https://github.com/username) |
 
 ---
 
 ## 📫 Contact
 
-<!-- 👇 Inserisci i tuoi contatti -->
-[![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-
----
-
-<div align="center">
-  <sub>Thanks for stopping by ✨</sub>
-</div>
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
